@@ -1,0 +1,8 @@
+@misc{yourproject2025,
+      title={Your Project Title}, 
+      author={Your Name and Co-authors},
+      year={2024},
+      eprint={xxxx.xxxxx},
+      archivePrefix={arXiv},
+      primaryClass={cs.XX}
+}
